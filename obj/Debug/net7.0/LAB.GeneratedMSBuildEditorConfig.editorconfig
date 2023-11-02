@@ -1,0 +1,239 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LAB
+build_property.RootNamespace = LAB
+build_property.ProjectDir = e:\iti.net\my lab\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\iti.net\my lab
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/iti.net/my lab/Views/Contract/Add_Contract.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcQWRkX0NvbnRyYWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Contract/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Contract/_EditContractPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcX0VkaXRDb250cmFjdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/PatientInvoice/Cancle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEludm9pY2VcQ2FuY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/PatientInvoice/DiscountView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEludm9pY2VcRGlzY291bnRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/PatientInvoice/Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEludm9pY2VcRmlsdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/PatientInvoice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEludm9pY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/PatientInvoice/PatientInvoicePay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEludm9pY2VcUGF0aWVudEludm9pY2VQYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/PatientVisits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxQYXRpZW50VmlzaXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/_AddPatientPatialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfQWRkUGF0aWVudFBhdGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Patient/_PatientInVisitPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxfUGF0aWVudEluVmlzaXRQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/RefferedDoctor/AddInVisitView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZmVyZWREb2N0b3JcQWRkSW5WaXNpdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/RefferedDoctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZmVyZWREb2N0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/RefferedDoctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZmVyZWREb2N0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Report/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Report/Generate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEdlbmVyYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Report/pakageServicesResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XHBha2FnZVNlcnZpY2VzUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/ServicesPricelist/ErrorInSPLFile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNQcmljZWxpc3RcRXJyb3JJblNQTEZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/ServicesPricelist/ImportSPLfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNQcmljZWxpc3RcSW1wb3J0U1BMZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/ServicesPricelist/_AddServicePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNQcmljZWxpc3RcX0FkZFNlcnZpY2VQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/ServicesPricelist/_ShowAllServiceInContructPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNQcmljZWxpc3RcX1Nob3dBbGxTZXJ2aWNlSW5Db250cnVjdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/ServicesPricelist/_ShowSPLInVisit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNQcmljZWxpc3RcX1Nob3dTUExJblZpc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/StandardService/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbmRhcmRTZXJ2aWNlXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/StandardService/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbmRhcmRTZXJ2aWNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/StandardService/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbmRhcmRTZXJ2aWNlXGVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/StandardService/importfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbmRhcmRTZXJ2aWNlXGltcG9ydGZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/StandardService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbmRhcmRTZXJ2aWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/VendorContact/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yQ29udGFjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/VendorContact/_ContactPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yQ29udGFjdFxfQ29udGFjdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Vendor/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Vendor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Vendor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Vendor/_AddContractPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXF9BZGRDb250cmFjdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Vendor/_VendorDetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXF9WZW5kb3JEZXRhaWxzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Vendor/_VendorListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXF9WZW5kb3JMaXN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/DetailServiceQrCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcRGV0YWlsU2VydmljZVFyQ29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/ServiceVisit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcU2VydmljZVZpc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/_ChangeServiceStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcX0NoYW5nZVNlcnZpY2VTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/_PayInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcX1BheUludm9pY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Visit/_VisitServicePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcX1Zpc2l0U2VydmljZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/iti.net/my lab/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d4yg2lb5lf
