@@ -19,4 +19,4 @@
  <img src='https://github.com/Hadeer-reda-sakr/Laboratory_System/blob/main/home.JPG' height='100%' width='100%'>
 
  <img src='https://github.com/Hadeer-reda-sakr/Laboratory_System/blob/main/visit%20pt%201.JPG' height='100%' width='100%'>
- <img src='https://github.com/Hadeer-reda-sakr/Laboratory_System/blob/main/visit%20pt%201.JPG' height='100%' width='100%'>
+ <img src='https://github.com/Hadeer-reda-sakr/Laboratory_System/blob/main/visit%20pt2.JPG' height='100%' width='100%'>
