@@ -14,4 +14,4 @@
  Technologies used:
 </h4>
  C# -Asp.net - MVC
- <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='30px' width='40px'>
+ <img src='' height='30px' width='40px'>
