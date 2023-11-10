@@ -14,4 +14,4 @@
  Technologies used:
 </h4>
  C# -Asp.net - MVC
- <img src='' height='30px' width='40px'>
+ <img src='home.JPG' height='30px' width='40px'>
