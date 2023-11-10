@@ -14,4 +14,4 @@
  Technologies used:
 </h4>
  C# -Asp.net - MVC
- <img src='https://github.com/Hadeer-reda-sakr/Laboratory_System/blob/main/home.JPG' height='30px' width='40px'>
+ <img src='https://github.com/Hadeer-reda-sakr/Laboratory_System/blob/main/home.JPG' height='100px' width='100px'>
